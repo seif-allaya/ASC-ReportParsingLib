@@ -2,9 +2,9 @@ require 'csv'
 require 'colorize'
 
 #########################################################
-#	By: seif.allaya@gmail.com							#
+#	By: seif.allaya@gmail.com
 #########################################################
-#	Library of functions								#
+#	Library of functions
 #########################################################
 
 $column_delimiter   = ","

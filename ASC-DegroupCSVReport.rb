@@ -2,14 +2,14 @@ require './ASC-CSVParselib'
 require 'optparse'
 
 #########################################################
-#	By: seif.allaya@gmail.com							#
+#	By: seif.allaya@gmail.com							
 #########################################################
-#	Read CSV file										#
-#	Sort CSV file										#
-#	Format Risk											#
-#	Regroup Vulnerabilities by CVE and Host				#
-#	Remove duplicates in CVE and Host fiels				#
-# 	Save the result										#
+#	Read CSV file										
+#	Sort CSV file										
+#	Format Risk										
+#	Regroup Vulnerabilities by CVE and Host				
+#	Remove duplicates in CVE and Host fiels	
+# 	Save the result	
 #########################################################
 
 # Main

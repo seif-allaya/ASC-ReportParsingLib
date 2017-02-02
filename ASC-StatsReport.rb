@@ -3,12 +3,13 @@ require 'optparse'
 require 'sqlite3'
 
 #########################################################
-#	By: seif.allaya@gmail.com							#
+#	By: seif.allaya@gmail.com							
 #########################################################
-#	Connect to sqlite3 database							#
-#														#
-#														#
-# 	Print the stats										#
+#	Connect to sqlite3 database							
+#	
+#	NOt Ready Yet													
+#														
+# 	Print the stats										
 #########################################################
 
 # Main

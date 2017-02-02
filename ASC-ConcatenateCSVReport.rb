@@ -1,14 +1,14 @@
 require './ASC-CSVParselib'
 require 'optparse'
 
-#########################################################
-#	By: seif.allaya@gmail.com							#
-#########################################################
-#	Read folder file CSV files							#
-#	Create CSV file from the Concatenation of all inputs#
-#	--Sort Data--										#
-# 	Save the result										#
-#########################################################
+############################################################
+#	By: seif.allaya@gmail.com
+############################################################
+#	Read folder file CSV files		
+#	Create CSV file from the Concatenation of all inputs
+#	--Sort Data--					
+# 	Save the result					
+############################################################
 
 # Main
 def main
